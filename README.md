@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @n-o-T-I-n-s-a-n-e (noTInsane was taken lol)
 - 👀 I’m interested in learning multipe programming languages
-- 🌱 I’m currently learning html, css, php, javascript
-- 📫 Looking to reach me? email me at rarestp2@gmail.com
+- 🌱 I’m currently learning flutter
+- 📫 Want to reach me? email me at rarestp2@gmail.com
